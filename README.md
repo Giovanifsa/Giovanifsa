@@ -5,6 +5,6 @@ This profile is mostly used for things that I do on my free time, like courses, 
 
 Feel free to fork, create a issue and criticize my projects. 
 
-If you wish to collaborate, you can create a issue in one of projects telling me so, or you can contact me at the e-mail on my profile.
+If you wish to collaborate, you can create a issue in one of the projects telling me so, or you can contact me at the e-mail on my profile.
 
 See ya!
